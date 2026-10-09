@@ -22,7 +22,7 @@ Please unzip the project and add it to the MATLAB path first, and then run the m
 If you find this algorithm useful in your research, please consider citing:
 
 ```BibTex
-@article{liao2024accelerated,
+@article{LLL26,
   title={Multiview Clustering Integrating Biorthogonal Nonnegative Tensor Factorization and Anchor Graph Learning},
   author={Liao, Yimou and Li, Wen and Luo, Qilun},
   journal={IEEE Transactions on Neural Networks and Learning Systems},
